@@ -1,0 +1,10 @@
+{
+  "name": "danger-js-workshop",
+  "version": "0.0.1",
+  "description": "Danger Test Project",
+  "main": "index.js",
+  "repository": "git@github.com:Danger-DevCon2019/danger-js-workshop.git",
+  "author": "Franco Meloni <franco.meloni91@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
